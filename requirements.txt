@@ -1,10 +1,16 @@
 python-dotenv
 numpy
+fastapi
+uvicorn
 pandas
 certifi
-pymongo[srv]
+#pymongo[srv]
 pymongo
 scikit-learn
+mlflow
 dill
 pyaml
+dagshub
+python-multipart
+
 ##-e .
